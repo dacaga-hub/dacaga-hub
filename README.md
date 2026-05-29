@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Cross Platform Application Developer, I'm used to work in frontend using Vue and currently learning Three.js. I also have experience with Java and Flutter/Dart<br>
+I am a Cross-Platform Application and Front-End Developer. I love building clean, efficient software and creating smooth user experiences (currently using Vue.js). I also have a solid foundation in mobile development (Flutter/Java) and automated testing with Cypress. Right now, I'm diving deep into AI integration and Large Language Models (LLMs).
 
 
 ## 🌐 Socials:
